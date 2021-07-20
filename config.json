@@ -1,0 +1,54 @@
+{
+    "proxy": {
+        "enabled": false,
+        "proxies": []
+    },
+    "credentials": {
+        "accountName": "",
+        "password": "",
+        "sharedSecret": ""
+    },
+    "settings": {
+        "personaState": "Offline",
+        "autoFriends": {
+            "enabled": true,
+            "message": ":TreepileHeart: 𝑇ℎ𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑎𝑑𝑑𝑖𝑛𝑔 𝑚𝑒!\n:TreepileHeart: 𝐹𝑒𝑒𝑙 𝑓𝑟𝑒𝑒 𝑡𝑜 𝑗𝑜𝑖𝑛 𝑚𝑦 𝑔𝑟𝑜𝑢𝑝, 𝐼'𝑙𝑙 𝑏𝑒 𝑑𝑜𝑖𝑛𝑔 𝑠𝑜𝑚𝑒 𝑠𝑡𝑢𝑓𝑓 𝑡ℎ𝑒𝑟𝑒 𝑠𝑜𝑜𝑛!",
+            "minLevel": 30,
+            "removeInactive": true,
+            "removeUnderMinLevel": true,
+            "checkVAC": true,
+            "ignoreFriends": [
+                "76561198281922759",
+                "76561198393741649"
+            ]
+        },
+        "autoGroup": {
+            "enabled": true,
+            "groupID": "103582791468235147"
+        },
+        "autoPost": {
+            "enabled": true,
+            "groups": [
+                "103582791429670253",
+                "103582791432987389",
+                "103582791435623121",
+                "103582791456660862",
+                "103582791434672565",
+                "103582791434277245"
+            ],
+            "message": ":TreepileHeart: [url=https://steamcommunity.com/id/-mindless-/]𝑓𝑒𝑒𝑙 𝑓𝑟𝑒𝑒 𝑡𝑜 𝑎𝑑𝑑 𝑚𝑒[/url]\n:TreepileHeart: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2184425898]𝑟𝑎𝑡𝑒 𝑓𝑜𝑟 𝑟𝑎𝑡𝑒[/url]",
+            "postInterval": 15,
+            "lastPost": -1
+        },
+        "hourboost": {
+            "enabled": false,
+            "games": [],
+            "personaState": "Online"
+        },
+        "heroku": {
+            "app": "",
+            "token": "",
+            "restartInterval": 5
+        }
+    }
+}
